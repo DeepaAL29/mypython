@@ -1,0 +1,9 @@
+i=10
+j=20
+k=30
+if(i>j):
+    print(i)
+elif(j>k):
+    print(k)
+else:
+    print(k)
